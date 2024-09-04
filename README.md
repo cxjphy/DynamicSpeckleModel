@@ -23,4 +23,7 @@ The sigma(K) is improved by increasing Nconfig.
 
 For any issue reporting or suggestions, please contact Sharvari Zilpelwar, sharz@bu.edu
 
+Citation:
+Zilpelwar, Sharvari, Edbert J. Sie, Dmitry Postnov, Anderson Ichun Chen, Bernhard Zimmermann, Francesco Marsili, David A. Boas, and Xiaojun Cheng. "Model of dynamic speckle evolution for evaluating laser speckle contrast measurements of tissue dynamics." Biomedical Optics Express 13, no. 12 (2022): 6533-6549.
+
 Updated 01/09/2021
